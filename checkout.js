@@ -17,6 +17,6 @@
 //     }, false)
 //   })
 // })()
-// var s=document.getElementById("firstName").value;
-// console.log(s);
+ var s=document.getElementById("firstName").value;
+ console.log(s);
 // alert(s);
